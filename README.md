@@ -118,9 +118,4 @@ Please refer to the paper for:
 
 (To be added)
 
----
-
-## License
-
-(To be added)
 
