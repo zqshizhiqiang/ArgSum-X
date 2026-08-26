@@ -183,3 +183,6 @@ Please refer to the paper for:
 ## Citation
 
 (To be added)
+
+## License
+This dataset is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
